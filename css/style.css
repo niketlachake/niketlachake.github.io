@@ -21,7 +21,7 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -67,7 +67,7 @@ body {
 	line-height: 1;
 	color: #fff;
 	font-size: 16px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
 	font-weight: normal;
 	line-height: 28px;
@@ -83,7 +83,7 @@ input,
 select,
 textarea { 
 	font-size: 16px;
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-style: normal;
 	font-weight: 300;
 }
@@ -100,35 +100,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-size: 62px;
 	position: relative;
 	margin-bottom: 0px;
 }
 
 h2 {
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-size: 48px;
 	position: relative;
 }
 
 h3 {
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-size: 30px;
 }
 
 h4 {
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-size: 22px;
 }
 
 h5 {
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-size: 20px;
 }
 
 h6 {
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-size: 18px;
 }
 
@@ -137,7 +137,7 @@ p {
 }
 
 p.lead {
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Ubuntu', sans-serif;
     font-size: 35px;
     line-height: 46px;
     padding: 0;
@@ -824,7 +824,7 @@ textarea::-webkit-input-placeholder {
 }
 
 .navigation .nav > li > a {
-	font: 14px 'Poppins', sans-serif; 
+	font: 14px 'Ubuntu', sans-serif; 
 	font-weight: 300;
 	letter-spacing: 1px; 
 	float: none;
@@ -923,7 +923,7 @@ textarea::-webkit-input-placeholder {
 #counter .number {
 	font-size: 80px;
 	text-align: center;
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-weight: 700;
 	line-height: 1;
 }
@@ -932,7 +932,7 @@ textarea::-webkit-input-placeholder {
 	display: block;
 	font-size: 21px;
 	text-align: center;
-	    font-family: 'Poppins', sans-serif;
+	    font-family: 'Ubuntu', sans-serif;
 	font-weight: 300;
 }
 

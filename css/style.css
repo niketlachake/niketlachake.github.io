@@ -210,6 +210,7 @@ section {
 
 .text-justify {
 	text-align: justify !important;
+	text-justify: inter-word;
 }
 
 .font-thin {
@@ -1137,6 +1138,7 @@ textarea::-webkit-input-placeholder {
 	color: #333;
 }
 
+
 /*	16.2 Small Buttons
 	-------------------------------------------------------------- */
 .sm-button {
@@ -2017,7 +2019,7 @@ body.mobile .animated {
 		float: none;
 	}
 	
-	.subscription-form button {
+		.subscription-form button {
 		margin-top: 20px;
 	}
 	

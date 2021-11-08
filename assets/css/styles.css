@@ -134,6 +134,9 @@ p {
   background-color: transparent;
   outline: 0 !important;
 }
+.mh-blog {
+  text-align: left;
+}
 
 .Molding-part {
   float: right;
@@ -141,12 +144,16 @@ p {
 }
 
 .column {
-  float: left;
-  width: 50%;
+  width: 100%;
   padding: 10px;
   text-align: center;
 }
-
+@media (min-width: 480px) {
+  .column {
+    float: left;
+    width: 50%;
+  }
+}
 /* Clear floats after image containers */
 .row::after {
   content: "";

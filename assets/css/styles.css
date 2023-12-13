@@ -160,7 +160,9 @@ p {
   clear: both;
   display: table;
 }
-
+table th, table td {
+  flex: 1;
+}
 a {
   text-decoration: none !important;
   cursor: pointer;
